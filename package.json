@@ -1,0 +1,11 @@
+{
+  "name": "@brtmvdl/local",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "description": "Easy LocalStorage Node.js library",
+  "url": "https://github.com/brtmvdl/local/issues",
+  "funding": "https://link.mercadopago.com.br/brtmvdl",
+  "author": "Tarsis Lima (https://github.com/brtmvdl)",
+  "repository": "github:brtmvdl/local",
+  "license": "MIT"
+}
